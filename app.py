@@ -18,7 +18,7 @@ st.markdown(
         <p style="margin:2px 0 0 0; font-size:1.1rem; color:#555;"><b>Roll Number:</b> 25-ME-224</p>
     </div>
     """, 
-    unsafe_style=True
+    unsafe_allow_html=True
 )
 
 # App description
